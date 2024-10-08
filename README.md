@@ -7,3 +7,5 @@ The Challenge: We were tasked with designing an interactive dashboard that would
 The Solution: Our team of data enthusiasts came together to develop a dashboard that's not only visually striking but also packed with features that drive actionable insights. With interactive maps, customizable filters, and data-driven storytelling, we've created a powerful tool that's helping to keep communities safer.
 
 The Impact: This project has been a true testament to the power of data analysis in driving positive change. By providing law enforcement agencies with timely and accurate insights, we're helping to reduce crime rates, improve resource allocation, and enhance community safety.
+
+Dataset Link:  https://docs.google.com/spreadsheets/d/15dG1pnn0iXUIlyxbIu3ZCCQ8rByiH0zA/edit?usp=sharing&ouid=112716758412021395269&rtpof=true&sd=true
